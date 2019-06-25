@@ -3,7 +3,8 @@
 *Universidad Politécnica de Tulancingo*
 
 -**Nombre:** Lizbeth Domínguez Domínguez 
-             Domínguez Domínguez Lizbeth
+             
+             Marco Antonio Nery Vargas
 
 -**Asesor:** Arturo Negrete Medellín 
 
